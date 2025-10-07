@@ -414,7 +414,7 @@ h2 {
 }
 
 /* Mobile */
-@media (max-width: 480px) {
+@media (max-width: 720px) {
   .navbar {
     flex-direction: column;
     text-align: center;
@@ -470,6 +470,7 @@ h2 {
       margin: auto;
       color: #ff6b6b;
     }
+
 
 
 
