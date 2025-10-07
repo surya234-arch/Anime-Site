@@ -422,10 +422,10 @@ h2 {
   .nav-links {
     margin-top: 10px;
   }
-  .search-bar {
+  /* .search-bar {
     margin-top: 15px;
     width: 90%;
-  }
+  } */
   .anime-gallery {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
@@ -470,5 +470,6 @@ h2 {
       margin: auto;
       color: #ff6b6b;
     }
+
 
 
